@@ -1,2 +1,5 @@
 
 .DS_Store
+*.json
+notebooks/lightfm_param_search.csv
+processed_data/ratings.csv
