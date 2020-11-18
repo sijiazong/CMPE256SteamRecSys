@@ -23,4 +23,4 @@ Run notebooks:
 	- itemBasedRecommendation.ipynb
 	- hybrid recommendations_LightFM.ipynb
 4. Run final mode notebook: 
-   - final model recommendations.ipynb
+   - final_rs_model_total.ipynb
